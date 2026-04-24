@@ -4,7 +4,7 @@ package com.wallet;
  * Hello world!
  *
  */
-public class App 
+public class SmartWallet 
 {
     public static void main( String[] args )
     {
